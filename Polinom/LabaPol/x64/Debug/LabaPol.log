@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(68,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(100,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(113,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(149,25): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(155,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(222,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(238,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\Monom.h(254,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(24,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(31,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(69,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(165,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(172,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(191,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(206,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\CircleList.h(222,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  LabaPol.vcxproj -> C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\x64\Debug\LabaPol.exe

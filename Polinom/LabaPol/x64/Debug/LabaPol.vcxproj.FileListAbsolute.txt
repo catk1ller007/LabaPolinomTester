@@ -1,0 +1,3 @@
+C:\Users\artyo\OneDrive\Рабочий стол\Уёба\ОП\C++\LabaPol\x64\Debug\LabaPol.exe
+C:\Users\artyo\OneDrive\Рабочий стол\Учёба\ОП\C++\LabaPol\x64\Debug\LabaPol.exe
+C:\Users\kylae\Desktop\Программирование\Лови Аптечку\LabaPol\x64\Debug\LabaPol.exe
